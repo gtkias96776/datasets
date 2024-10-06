@@ -1,0 +1,252 @@
+disease,food,food nutrients
+fever,Broth-based soups ,Protein|Collagen|Electrolytes|Vitamins and Minerals|Gelatin
+fever,"Citrus fruits (oranges, lemons) ",Vitamin C|Fiber|Potassium|Folate|Antioxidants
+fever,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+fever,"Leafy greens (spinach, kale)",Vitamin K|Vitamin A|Vitamin C|Folate|Iron
+fever, Yogurt ,Protein| Calcium| Probiotics| Vitamin B12|Riboflavin (Vitamin B2)
+Influenza (Flu),Bone broth,"Protein|Collagen|Electrolytes|Vitamins(B vitamins)|Minerals(calcium,magnesium,phosphorus)"
+Influenza (Flu),"Citrus fruits (grapefruits, oranges)",Vitamin C| Fiber|Potassium| Folate|Antioxidants
+Influenza (Flu),Garlic,Allicin|Vitamin C|Manganese|Vitamin B6|Selenium
+Influenza (Flu),Green tea,Antioxidants (catechins)| Caffeine|Amino acids (L-theanine)|Fluoride|Vitamins B2 and B3
+Influenza (Flu),Yogurt,Protein|Calcium|Probiotics|Vitamin B12|Riboflavin(Vitamin B2)
+Influenza (Flu),Sweet potatoes,Carbohydrates|Fiber|Vitamin A (beta-carotene)|Vitamin C|Potassium
+Diabetes,"Leafy greens (spinach, kale)",Vitamin K|Vitamin A|Vitamin C|Folate|Iron
+Diabetes,"Whole grains (quinoa, brown rice)",Fiber|Protein|B vitamins|Iron|Magnesium
+Diabetes,"Fatty fish (salmon, mackerel) ",Omega-3 fatty acids|Protein|Vitamin D|Selenium|Vitamin B12
+Diabetes,Beans and legumes,Protein|Fiber|Folate|Iron|Magnesium
+Diabetes,"Berries (blueberries, strawberries)",Vitamin C|Fiber|Antioxidants|Manganese|Folate
+Hypertension (High Blood Pressure),"Leafy greens (spinach, kale)",Vitamin K|Vitamin A|Vitamin C|Folate|Iron
+Hypertension (High Blood Pressure), Bananas ,Potassium|Vitamin C|Vitamin B6|Fiber|Magnesium
+Hypertension (High Blood Pressure),Oats,Fiber|Protein|Magnesium|Iron|B vitamins
+Hypertension (High Blood Pressure),Avocados,Healthy fats (monounsaturated fats)|Fiber|Potassium|Vitamin K|Vitamin E
+Hypertension (High Blood Pressure),Salmon,Omega-3 fatty acids|Protein|Vitamin D|Selenium|Vitamin B12
+Asthma,"Fatty fish (salmon, sardines)",Omega-3 fatty acids|Protein|Vitamin D|Selenium|Vitamin B12
+Asthma,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Asthma," Leafy greens (spinach, kale) ",Vitamin K|Vitamin A|Vitamin C|Folate|Iron
+Asthma,Turmeric,Curcumin|Manganese|Iron|Potassium|Antioxidants
+Asthma, Berries,Vitamin C|Fiber|Antioxidants|Manganese|Folate
+Common Cold,Garlic,Allicin|Vitamin C|Manganese|Vitamin B6|Selenium
+Common Cold,Chicken soup,"Protein|Electrolytes|Vitamins (B vitamins)|Minerals (phosphorus, selenium)|Gelatin"
+Common Cold,Honey,"Natural sugars|Antioxidants|Vitamins (B vitamins)|Minerals (calcium, iron)|Amino acids"
+Common Cold,"Citrus fruits (lemons, oranges)",Vitamin C|Fiber|Potassium|Folate|Antioxidants
+Common Cold,Ginger tea,Gingerol|Antioxidants|V itamin C|Magnesium|Potassium
+Headache,Spinach,Vitamin K|Vitamin A|Vitamin C|Folate|Iron
+Headache,Almonds,Vitamin E|Magnesium|Protein|Fiber|Antioxidants
+Headache,Fatty Fish,Omega-3 fatty acids|Protein|Vitamin D|Selenium|Vitamin B12
+Headache,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Headache,Watermelon,Vitamin C|Vitamin A|Potassium|Magnesium|Water (over 90%)
+Cough,Honey,"Natural sugars|Antioxidants|Vitamins (B vitamins)|Minerals (calcium, iron)|Amino acids"
+Cough,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Cough,Garlic,Allicin|Vitamin C|Manganese|Vitamin B6|Selenium
+Cough,Lemon,Vitamin C|Fiber|Potassium|Vitamin B6|Flavonoids
+Cough,Pineapple,Vitamin C|Manganese|Bromelain|Fiber|Vitamin B6
+Sore Throat,Honey,"Natural sugars|Antioxidants|Vitamins (B vitamins)|Minerals (calcium, iron)|Amino acids"
+Sore Throat,Warm Broths,"Protein|Electrolytes|Vitamins (B vitamins)|Minerals (calcium, magnesium)|Gelatin"
+Sore Throat,Herbal Teas,Antioxidants|Vitamins (varies by type)|Minerals (varies by type)|Flavonoids|Polyphenols
+Sore Throat,Mashed Potatoes,Carbohydrates|Vitamin C|Potassium|Fiber|Vitamin B6
+Sore Throat,Yogurt,Protein| Calcium| Probiotics| Vitamin B12|Riboflavin (Vitamin B2)
+Sinusitis,Garlic,Allicin|Vitamin C|Manganese|Vitamin B6|Selenium
+Sinusitis,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Sinusitis,"Spicy Foods (e.g., Chili Peppers)",Capsaicin|Vitamin C|Vitamin A|Potassium|Antioxidants
+Sinusitis,Citrus Fruits,Vitamin C|Fiber|Potassium|Folate|Antioxidants
+Sinusitis,Broth-based Soups,Protein|Collagen|Electrolytes|Vitamins and Minerals|Gelatin
+Allergic Rhinitis (Hay Fever),Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Allergic Rhinitis (Hay Fever),Honey,"Natural sugars|Antioxidants|Vitamins (B vitamins)|Minerals (calcium, iron)|Amino acids"
+Allergic Rhinitis (Hay Fever),Turmeric,Curcumin|Manganese|Iron|Potassium|Antioxidants
+Allergic Rhinitis (Hay Fever),Citrus Fruits,Vitamin C|Fiber|Potassium|Folate|Antioxidants
+Allergic Rhinitis (Hay Fever),Fatty Fish,Omega-3 fatty acids|Protein|Vitamin D|Selenium|Vitamin B12
+Bronchitis,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Bronchitis,Garlic,Allicin|Vitamin C|Manganese|Vitamin B6|Selenium
+Bronchitis,Turmeric,Curcumin|Manganese|Iron|Potassium|Antioxidants
+Bronchitis,Honey,"Natural sugars|Antioxidants|Vitamins (B vitamins)|Minerals (calcium, iron)|Amino acids"
+Bronchitis,Pineapple,Vitamin C|Manganese|Bromelain|Fiber|Vitamin B6
+Pneumonia,Chicken Soup,"Protein|Electrolytes|Vitamins (B vitamins)|Minerals (phosphorus, selenium)|Gelatin"
+Pneumonia,Garlic,Allicin|Vitamin C|Manganese|Vitamin B6|Selenium
+Pneumonia,Citrus Fruits,Vitamin C|Fiber|Potassium|Folate|Antioxidants
+Pneumonia,Leafy Greens,Vitamin K|Vitamin A|Vitamin C|Folate|Iron
+Pneumonia,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Diarrhea,Bananas,Potassium|Vitamin C|Vitamin B6|Fiber|Magnesium
+Diarrhea,Rice,Carbohydrates|Protein|Manganese|Magnesium|B vitamins
+Diarrhea,Applesauce,Vitamin C|Fiber|Antioxidants|Potassium|Carbohydrates
+Diarrhea,Toast,Carbohydrates|Fiber (if whole grain)|B vitamins|Iron|Magnesium
+Diarrhea,Yogurt,Protein| Calcium| Probiotics| Vitamin B12|Riboflavin (Vitamin B2)
+Constipation,Whole Grains,Fiber|Protein|B vitamins|Iron|Magnesium
+Constipation,"Apples, Pears",Vitamin C|Fiber|Potassium|Antioxidants|Vitamin K
+Constipation,Vegetables,Vitamins (varies by type)|Minerals (varies by type)|Fiber|Antioxidants|Phytonutrients
+Constipation,Legumes,Protein|Fiber|Folate|Iron|Magnesium
+Constipation,Nuts and Seeds,Healthy Fats|Protein|Fiber|Vitamin E|Magnesium
+Indigestion (Dyspepsia),Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Indigestion (Dyspepsia),Peppermint,Antioxidants|Vitamin A|Iron|Manganese|Fiber
+Indigestion (Dyspepsia),Oatmeal,Fiber|Protein|Magnesium|Iron|B vitamins
+Indigestion (Dyspepsia),Bananas,Potassium|Vitamin C|Vitamin B6|Fiber|Magnesium
+Indigestion (Dyspepsia),Yogurt  ,Protein| Calcium| Probiotics| Vitamin B12|Riboflavin (Vitamin B2)
+Gastritis,Bananas,Potassium|Vitamin C|Vitamin B6|Fiber|Magnesium
+Gastritis,Yogurt  ,Protein| Calcium| Probiotics| Vitamin B12|Riboflavin (Vitamin B2)
+Gastritis,Oatmeal  ,Fiber|Protein|Magnesium|Iron|B vitamins
+Gastritis,Ginger  ,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Gastritis,Chamomile Tea ,Antioxidants|Flavonoids|Calcium|Potassium|Magnesium
+Urinary Tract Infection (UTI),Cranberries,Vitamin C|Fiber|Antioxidants|Manganese|Vitamin E
+Urinary Tract Infection (UTI),Blueberries,Vitamin C|Fiber|Antioxidants|Vitamin K|Manganese
+Urinary Tract Infection (UTI),Plain yogurt,Protein|Calcium|Probiotics|Vitamin B12|Phosphorus
+Urinary Tract Infection (UTI),Garlic,Vitamin C|Manganese|Vitamin B6|Selenium|Antioxidant
+Urinary Tract Infection (UTI),Watermelon,Vitamin C|Vitamin A|Potassium|Magnesium|Antioxidants (lycopene)
+Skin Rashes,"Leafy greens (spinach, kale)",Vitamin K|Vitamin A|Iron|Magnesium|Antioxidants
+Skin Rashes,Sweet potatoes,Vitamin A|Vitamin C|Fiber|Potassium|Manganese
+Skin Rashes,Oats,Fiber|Protein|Magnesium|Iron|B vitamins
+Skin Rashes,Turmeric,Curcumin|Antioxidants|Vitamin C|Iron|Manganese
+Skin Rashes,"Fatty fish (salmon, mackerel)",Omega-3 Fatty Acids|Protein|Vitamin D|Vitamin B12|Selenium
+Eczema,"Fatty fish (salmon, sardines)",Omega-3 Fatty Acids|Protein|Vitamin D|Vitamin B12|Selenium
+Eczema,Sunflower seeds,Vitamin E|Magnesium|Selenium|Vitamin B6|Copper
+Eczema,Apples,Vitamin C|Fiber|Potassium|Antioxidants|Vitamin K
+Eczema,Broccoli,Vitamin C|Vitamin K|Fiber|Folate|Potassium
+Eczema,Bone broth,Collagen|Protein|Glycine|Calcium|Magnesium
+Psoriasis,"Fatty fish (salmon, mackerel)",Omega-3 Fatty Acids|Protein|Vitamin D|Vitamin B12|Selenium
+Psoriasis,Flaxseeds,Omega-3 Fatty Acids|Fiber|Lignans|Magnesium|Vitamin B1
+Psoriasis,"Leafy greens (spinach, kale)",Vitamin K|Vitamin A|Iron|Magnesium|Antioxidants
+Psoriasis,Olive oil,Monounsaturated Fats|Vitamin E|Antioxidants|Oleic Acid|Vitamin K
+Psoriasis,Turmeric,Curcumin|Antioxidants|Vitamin C|Iron|Manganese
+Acne,Avocados,Healthy Fats|Vitamin E|Vitamin C|Potassium|Fiber
+Acne,Pumpkin seeds,Zinc|Magnesium|Iron|Copper|Antioxidants
+Acne,"Whole grains (quinoa, brown rice)",Vitamin A|Vitamin C|Fiber|Potassium|Manganese
+Acne,Green tea,Antioxidants|Catechins|Vitamin C|Flavonoids|L-theanine
+Acne,"Berries (blueberries, strawberries)",Vitamin C|Fiber|Antioxidants|Vitamin K|Manganese
+Hyperlipidemia (High Cholesterol),Oats,Fiber|Protein|Magnesium|Iron|B vitamins
+Hyperlipidemia (High Cholesterol),Almonds,Healthy Fats|Protein|Vitamin E|Magnesium|Fiber
+Hyperlipidemia (High Cholesterol),"Fatty fish (salmon, mackerel)",Omega-3 Fatty Acids|Protein|Vitamin D|Vitamin B12|Selenium
+Hyperlipidemia (High Cholesterol),Avocados,Healthy Fats|Vitamin E|Vitamin C|Potassium|Fiber
+Hyperlipidemia (High Cholesterol),Olive oil,Monounsaturated Fats|Vitamin E|Antioxidants|Oleic Acid|Vitamin K
+Arthritis,"Fatty fish (salmon, sardines)",Omega-3 Fatty Acids|Protein|Vitamin D|Vitamin B12|Selenium
+Arthritis,Cherries,Antioxidants|Vitamin C|Fiber|Potassium|Melatonin
+Arthritis,Broccoli,Vitamin C|Vitamin K|Fiber|Folate|Potassium
+Arthritis,Ginger,Gingerol|Vitamin C|Magnesium|Potassium|Antioxidants
+Arthritis,Walnuts,Healthy Fats|Protein|Vitamin E|Magnesium|Fiber
+Osteoporosis,"Leafy greens (spinach, kale)",Calcium|Vitamin K|Magnesium|Iron|Vitamin A
+Osteoporosis,Almonds,Calcium|Magnesium|Vitamin E|Healthy Fats|Fiber
+Osteoporosis,Yogurt,Calcium|Vitamin D|Protein|Phosphorus|Vitamin B12
+Osteoporosis,Cheese,Calcium|Vitamin D|Protein|Phosphorus|Vitamin B12
+Osteoporosis,Sardines,Calcium|Omega-3 Fatty Acids|Vitamin D|Protein|Vitamin B12
+Migraine,"Leafy greens (spinach, kale)",Vitamin K|Vitamin A|Iron|Magnesium|Antioxidants
+Migraine,Fatty fish (salmon),Omega-3 Fatty Acids|Protein|Vitamin D|Vitamin B12|Selenium
+Migraine,Bananas,Potassium|Vitamin C|Vitamin B6|Fiber|Magnesium
+Migraine,Sweet potatoes,Vitamin A|Vitamin C|Fiber|Potassium|Manganese
+Migraine,Ginger,Gingerol|Antioxidants|Vitamin C|Magnesium|Potassium
+Obesity,"Leafy greens (spinach, kale)",Fiber|Vitamin C|Antioxidants|Vitamin K|Manganese
+Obesity,Oats,Fiber|Vitamins A & C|Iron|Calcium|Antioxidants
+Obesity,Lentils,Protein|Fiber|Iron|Folate|Magnesium
+Obesity,Apples,Fiber|B Vitamins|Protein|Magnesium|Iron
+Obesity,"Fatty fish (salmon, mackerel)",Healthy Fats|Protein|Fiber|Vitamin E|Magnesium
+Anemia,Spinach,Iron|Vitamin K|Vitamin A|Folate|Calcium
+Anemia,Lentils,Iron|Protein|Folate|Fiber|Magnesium
+Anemia,Red meat (lean beef),Iron|Protein|Vitamin B12|Zinc|Selenium
+Anemia,Fortified cereals,Iron|Folate|Vitamin B12|Vitamin D|Fiber
+Anemia,Eggs,Iron|Magnesium|Zinc|Healthy Fats|Vitamin E
+Depression,"Fatty fish (salmon, mackerel)",Omega-3 Fatty Acids|Protein|Vitamin D|Vitamin B12|Selenium
+Depression,Dark chocolate (in moderation),Folate|Vitamin K|Vitamin A|Iron|Magnesium
+Depression,Walnuts,Healthy Fats|Vitamin E|Magnesium|Protein|Antioxidants
+Depression,"Leafy greens (spinach, kale)",Folate|Vitamin K|Vitamin A|Iron|Magnesium
+Depression,"Berries (blueberries, strawberries)",Antioxidants|Vitamin C|Fiber|Vitamin K|Manganese
+Anxiety Disorders,Chamomile tea,Antioxidants|Catechins|Vitamin C|Flavonoids|L-theanine
+Anxiety Disorders,Blueberries,Vitamin C|Fiber|Antioxidants|Manganese|Folate
+Anxiety Disorders,Dark chocolate (in moderation),Antioxidants|Iron|Magnesium|Copper|Flavonoids
+Anxiety Disorders,Turmeric,Curcumin|Antioxidants|Vitamin C|Iron|Manganese
+Anxiety Disorders,Oats,Fiber|Protein|Magnesium|Iron|B Vitamins
+Chronic Obstructive Pulmonary Disease (COPD),"Fatty fish (salmon, mackerel)",Omega-3FattyAcids|Protein|VitaminD|VitaminB12|Selenium
+Chronic Obstructive Pulmonary Disease (COPD),"Leafy greens (spinach, kale)",VitaminK|Folate|VitaminA|Iron|Magnesium
+Chronic Obstructive Pulmonary Disease (COPD),"Berries (blueberries, strawberries)",Antioxidants|VitaminC|Fiber|VitaminK|Manganese
+Chronic Obstructive Pulmonary Disease (COPD),"Nuts (walnuts, almonds)",HealthyFats|VitaminE|Magnesium|Protein|Antioxidants
+Chronic Obstructive Pulmonary Disease (COPD),"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Protein|Magnesium|Iron
+Tonsillitis,Warm soups (chicken soup),Protein|Electrolytes|Vitamins|Minerals|Hydration
+Tonsillitis,Mashed potatoes,Carbohydrates|VitaminC|Potassium|Fiber|VitaminB6
+Tonsillitis,Yogurt,Probiotics|Calcium|Protein|VitaminB12|Phosphorus
+Tonsillitis,"Herbal teas (chamomile, ginger tea)",Antioxidants|Vitamins|Minerals|Anti-inflammatoryCompounds|Hydration
+Tonsillitis,"Ice cream (soft, soothing)",Calcium|Carbohydrates|VitaminD|Protein|Fat
+Chickenpox,Oatmeal baths (to soothe itching),SolubleFiber|Antioxidants|Vitamins|Minerals|HydratingProperties
+Chickenpox,"Fruits high in vitamin C (oranges, strawberries)",VitaminC|Fiber|Antioxidants|Folate|Potassium
+Chickenpox,Yogurt,Probiotics|Calcium|Protein|VitaminB12|Phosphorus
+Chickenpox,"Lean proteins (chicken, turkey)",Protein|B Vitamins|Selenium|Iron|Zinc
+Chickenpox,"Herbal teas (chamomile, peppermint)",Antioxidants|Vitamins|Minerals|Anti-inflammatoryCompounds|Hydration
+Measles,"Vitamin A-rich foods (carrots, sweet potatoes)",VitaminC|Fiber|Folate|Potassium|Antioxidants
+Measles,"Citrus fruits (oranges, grapefruits)",BetaCarotene|Fiber|VitaminA|VitaminK|Potassium
+Measles,"Leafy greens (spinach, kale)",Antioxidants|Vitamins|Minerals|Anti-inflammatoryCompounds|Hydration
+Measles,"Whole grains (brown rice, oats)",Fiber|Protein|Magnesium|Iron|B Vitamins
+Measles,"Lean proteins (fish, chicken)",Protein|B Vitamins|Selenium|Iron|Zinc
+Mumps,"Soft fruits (bananas, applesauce)",VitaminC|Fiber|Folate|Potassium|Antioxidants
+Mumps,"Smoothies (yogurt, fruits)",Calcium|Probiotics|VitaminC|Protein|Fiber
+Mumps,Warm broths,Electrolytes|Protein|Vitamins|Minerals|Hydration
+Mumps,"Soft-cooked vegetables (carrots, squash)",VitaminA|Fiber|VitaminC|Potassium|Antioxidants
+Mumps,Oatmeal,Fiber|Iron|Magnesium|Antioxidants|VitaminB1
+Tuberculosis,"Lean proteins (chicken, fish)",Protein|B Vitamins|Iron|Zinc|Selenium
+Tuberculosis,"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+Tuberculosis,Fruits high in vitamin C (citrus fruits),VitaminC|Fiber|Antioxidants|Folate|Potassium
+Tuberculosis,"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Tuberculosis,"Nuts and seeds (almonds, sunflower seeds)",HealthyFats|VitaminE|Magnesium|Fiber|Protein
+Hepatitis,"Leafy greens (kale, spinach)",VitaminK|VitaminA|Folate|Calcium|Iron
+Hepatitis,"Fatty fish (salmon, sardines)",Omega-3FattyAcids|Protein|VitaminD|Selenium|B Vitamins
+Hepatitis,"Whole grains (brown rice, oats)",Fiber|B Vitamins|Iron|Magnesium|Antioxidants
+Hepatitis,"Fruits (apples, berries)",Fiber|VitaminC|Antioxidants|Potassium|VitaminK
+Hepatitis,"Nuts (walnuts, almonds)",HealthyFats|Protein|Magnesium|VitaminE|Fiber
+Mononucleosis (Mono),"Hydrating fruits (watermelon, oranges)",Water|VitaminC|Potassium|Antioxidants|Fiber
+Mononucleosis (Mono),"Lean proteins (chicken, turkey)",Protein|B Vitamins|Iron|Zinc|Selenium
+Mononucleosis (Mono),"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+Mononucleosis (Mono),"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Mononucleosis (Mono),Yogurt (probiotics),Calcium|Protein|Probiotics|B Vitamins|Phosphorus
+Chikungunya,"Hydrating fluids (coconut water, herbal teas)",Electrolytes|Vitamins|Minerals|Hydration|Antioxidants
+Chikungunya,"Fruits high in vitamin C (oranges, kiwi)",VitaminC|Fiber|Antioxidants|Folate|Potassium
+Chikungunya,"Anti-inflammatory foods (turmeric, ginger)",Curcumin|Gingerol|Antioxidants|Vitamins|Minerals
+Chikungunya,"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Chikungunya,"Nuts and seeds (chia seeds, flaxseeds)",Omega-3FattyAcids|Fiber|Protein|Magnesium|Antioxidants
+Dengue Fever,"Hydrating fluids (coconut water, herbal teas)",Electrolytes|Vitamins|Minerals|Hydration|Antioxidants
+Dengue Fever,Papaya leaves (in juice form),Vitamins|Antioxidants|Minerals|DigestiveEnzymes|Anti-inflammatoryCompounds
+Dengue Fever,"Fruits rich in vitamin C (oranges, strawberries)",VitaminC|Fiber|Antioxidants|Folate|Potassium
+Dengue Fever,"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Dengue Fever,Bone broth,Collagen|AminoAcids|Minerals|Gelatin|Hydration
+Zika Virus,"Hydrating fluids (coconut water, herbal teas)",Electrolytes|Vitamins|Minerals|Hydration|Antioxidants
+Zika Virus,Fruits high in vitamin C (citrus fruits),VitaminC|Fiber|Antioxidants|Folate|Potassium
+Zika Virus,"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Zika Virus,"Lean proteins (chicken, fish)",Protein|B Vitamins|Iron|Zinc|Selenium
+Zika Virus,"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+HIV/AIDS,"Lean proteins (chicken, fish)",Protein|B Vitamins|Iron|Zinc|Selenium
+HIV/AIDS,"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+HIV/AIDS,"Fruits and vegetables (berries, leafy greens)",Antioxidants|Vitamins|Minerals|Fiber|Phytonutrients
+HIV/AIDS,"Nuts and seeds (almonds, chia seeds)",HealthyFats|Protein|VitaminE|Magnesium|Fiber
+HIV/AIDS,"Legumes (beans, lentils)",Protein|Fiber|Iron|Folate|Magnesium
+Malaria,"Hydrating fluids (coconut water, herbal teas)",Electrolytes|Vitamins|Minerals|Hydration|Antioxidants
+Malaria,"Fruits high in vitamin C (oranges, pineapples)",VitaminC|Fiber|Antioxidants|Folate|Potassium
+Malaria,"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Malaria,"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+Malaria,"Lean proteins (chicken, fish)",Protein|B Vitamins|Iron|Zinc|Selenium
+Typhoid Fever,Clear soups (chicken or vegetable broth),Electrolytes|Hydration|AminoAcids|Minerals|Vitamins
+Typhoid Fever,"Boiled vegetables (carrots, spinach)",Vitamins|Minerals|Fiber|Antioxidants|Beta-Carotene
+Typhoid Fever,"Fruits (bananas, apples)",Potassium|Fiber|VitaminC|Antioxidants|NaturalSugars
+Typhoid Fever,Oatmeal,Fiber|Vitamins|Minerals|Antioxidants|Beta-Glucan
+Typhoid Fever,Yogurt (probiotics),Probiotics|Calcium|Protein|B Vitamins|VitaminD
+Cholera,"Hydrating fluids (oral rehydration solutions, coconut water)",Electrolytes|Hydration|Vitamins|Minerals|Antioxidants
+Cholera,"Boiled vegetables (carrots, potatoes)",Vitamins|Minerals|Fiber|Antioxidants|Carbohydrates
+Cholera,"Fruits (bananas, apples)",Potassium|Fiber|VitaminC|Antioxidants|NaturalSugars
+Cholera,Rice or plain toast,Carbohydrates|B Vitamins|Iron|MinimalFat|EasilyDigestible
+Cholera,Clear soups (chicken or vegetable broth),Electrolytes|Hydration|AminoAcids|Minerals|Vitamins
+Shingles,"Foods rich in vitamin C (oranges, strawberries)",VitaminC|Fiber|Antioxidants|Folate|Potassium
+Shingles,"Whole grains (brown rice, oats)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+Shingles,"Lean proteins (chicken, turkey)",Protein|B Vitamins|Iron|Zinc|Selenium
+Shingles,"Nuts and seeds (walnuts, sunflower seeds)",HealthyFats|Protein|VitaminE|Magnesium|Fiber
+Shingles,"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Gout,Cherries,VitaminC|Antioxidants|Fiber|Potassium|VitaminA
+Gout,"Low-fat dairy (yogurt, milk)",Calcium|Protein|VitaminD|B Vitamins|Probiotics
+Gout,"Whole grains (brown rice, oats)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+Gout,"Vegetables (broccoli, spinach)",Vitamins|Minerals|Fiber|Antioxidants|Phytochemicals
+Gout,Water (hydration is key),Hydration|Electrolytes|ZeroCalories|Detoxification|BodyTemperatureRegulation
+Celiac Disease,"Gluten-free grains (quinoa, rice)",Protein|Fiber|B Vitamins|Minerals|Antioxidants
+Celiac Disease,"Fruits (bananas, apples)",Potassium|Fiber|VitaminC|Antioxidants|NaturalSugars
+Celiac Disease,"Vegetables (carrots, spinach)",Vitamins|Minerals|Fiber|Antioxidants|Beta-Carotene
+Celiac Disease,"Nuts and seeds (almonds, chia seeds)",HealthyFats|Protein|VitaminE|Magnesium|Fiber
+Celiac Disease,"Dairy (if tolerated, yogurt, cheese)",Calcium|Protein|VitaminD|B Vitamins|Probiotics
+Kidney Stones,Water (stay hydrated),Hydration|Electrolytes|ZeroCalories|Detoxification|BodyTemperatureRegulation
+Kidney Stones,Lemon juice (high in citrate),VitaminC|Antioxidants|Hydration|CitricAcid|Detoxifying
+Kidney Stones,"Fruits (watermelon, oranges)",Hydration|VitaminC|Antioxidants|Fiber|Electrolytes
+Kidney Stones,"Leafy greens (spinach, kale)",VitaminK|VitaminA|Folate|Calcium|Iron
+Kidney Stones,"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+Hernia,"Lean proteins (chicken, fish)",Protein|B Vitamins|Iron|Zinc|Selenium
+Hernia,"Fruits and vegetables (bananas, spinach)",Vitamins|Minerals|Fiber|Antioxidants|Hydration
+Hernia,"Whole grains (brown rice, quinoa)",Fiber|B Vitamins|Magnesium|Iron|Antioxidants
+Hernia,"Low-fat dairy (yogurt, milk)",Calcium|Protein|VitaminD|B Vitamins|Probiotics
+Hernia,"Healthy fats (avocado, olive oil)",HealthyFats|VitaminE|MonounsaturatedFats|Fiber|Antioxidants
