@@ -1,0 +1,51 @@
+Disease,Affecting Health Metrices
+fever,Body Temperature Rise|Increased Heart Rate|Elevated Respiratory Rate|Altered Blood Pressure|Changes in White Blood Cell Count
+Influenza (Flu),Body Temperature|Heart Rate|Respiratory Rate|Blood Pressure|Hydration Status
+Diabetes,Increased Thirst|Frequent Urination|Extreme Fatigue|Blurred Vision|Slow Healing Sores
+Hypertension (High Blood Pressure),Blood Pressure Levels|Heart Rate|Cholesterol Levels|Kidney Function|Weight
+Asthma,Body Temperature|Heart Rate|Respiratory Rate|Oxygen Saturation|Hydration Status
+Common Cold,Body Temperature Rise|Increased Heart Rate|Respiratory Rate|Blood Pressure|Hydration Status
+Headache,Pain Sensitivity|Blood Pressure|Heart Rate|Stress Levels|Sleep Patterns
+Cough,Respiratory Rate|Lung Function|Mucus Production|Throat Irritation|Chest Congestion
+Sore Throat,Throat Redness|Swollen Glands|Pain Level|Difficulty Swallowing|Body Temperature
+Sinusitis,Nasal Congestion|Facial Pain|Mucus Production|Headache|Breathing Difficulty
+Allergic Rhinitis (Hay Fever),Nasal Congestion|Sneezing Frequency|Watery Eyes|Runny Nose|Itchy Throat
+Bronchitis,Cough Intensity|Mucus Production|Chest Pain|Breathing Difficulty|Fatigue
+Pneumonia,Body Temperature|Oxygen Saturation|Chest Pain|Respiratory Rate|Cough with Phlegm
+Diarrhea,Bowel Movement Frequency|Dehydration Levels|Abdominal Pain|Electrolyte Imbalance|Nutrient Absorption
+Constipation,Bowel Movement Frequency|Abdominal Pain|Bloating|Dietary Fiber Intake|Hydration Status
+Indigestion (Dyspepsia),Stomach Pain|Bloating|Acid Reflux|Nausea|Fullness After Eating
+Gastritis,Abdominal Pain|Nausea|Vomiting|Bloating|Loss of Appetite
+Urinary Tract Infection (UTI),Urination Frequency|Painful Urination|Cloudy Urine|Abdominal Pain|Fever
+Skin Rashes,Skin Redness|Itching|Swelling|Blistering|Skin Dryness
+Eczema,Skin Dryness|Itching|Redness|Cracking|Inflammation
+Psoriasis,Skin Flaking|Itching|Red Patches|Joint Pain|Swollen Skin
+Acne,Pimple Formation|Oily Skin|Inflammation|Scarring|Bacterial Infection
+Hyperlipidemia (High Cholesterol),Blood Cholesterol Levels|Triglyceride Levels|Blood Pressure|Weight|Liver Function
+Arthritis,Joint Pain|Swelling|Stiffness|Movement Difficulty|Fatigue
+Osteoporosis,Bone Density|Fracture Risk|Calcium Levels|Posture Changes|Bone Pain
+Migraine,Headache Intensity|Nausea|Light Sensitivity|Sound Sensitivity|Visual Disturbances
+Obesity,Body Weight|BMI|Cholesterol Levels|Blood Pressure|Joint Stress
+Anemia,Hemoglobin Levels|Fatigue|Pale Skin|Dizziness|Breathing Difficulty
+Depression,Mood Levels|Energy Levels|Sleep Patterns|Appetite Changes|Concentration Difficulty
+Anxiety Disorders,Heart Rate|Breathing Patterns|Sweating|Sleep Quality|Muscle Tension
+Chronic Obstructive Pulmonary Disease (COPD),Lung Function|Oxygen Levels|Breathing Difficulty|Coughing|Wheezing
+Tonsillitis,Sore Throat|Swollen Tonsils|Fever|Swallowing Difficulty|Bad Breath
+Chickenpox,Skin Rash|Blisters|Itching|Fever|Fatigue
+Measles,Skin Rash|Fever|Cough|Red Eyes|Runny Nose
+Mumps ,Swollen Salivary Glands|Fever|Muscle Aches|Fatigue|Loss of Appetite
+Tuberculosis,Coughing|Chest Pain|Night Sweats|Weight Loss|Fatigue
+Hepatitis,Liver Function|Jaundice|Abdominal Pain|Fatigue|Dark Urine
+Mononucleosis (Mono),Fatigue|Sore Throat|Swollen Glands|Fever|Body Aches
+Chikungunya,Joint Pain|Fever|Rash|Headache|Muscle Pain
+Dengue Fever,High Fever|Severe Headache|Joint Pain|Skin Rash|Bleeding Gums
+Zika Virus,Fever|Rash|Joint Pain|Conjunctivitis (Red Eyes)|Headache
+HIV/AIDS,Immune Function|Fatigue|Weight Loss|Fever|Swollen Lymph Nodes
+Malaria,Fever|Chills|Sweating|Headache|Muscle Pain
+Typhoid Fever,High Fever|Abdominal Pain|Weakness|Headache|Loss of Appetite
+Cholera,Dehydration Levels|Diarrhea Severity|Vomiting|Electrolyte Balance|Blood Pressure
+Shingles,Skin Rash|Blisters|Pain|Itching|Fever
+Gout,Joint Pain|Swelling|Redness|Warmth|Uric Acid Levels
+Celiac Disease,Gluten Intolerance|Abdominal Pain|Diarrhea|Weight Loss|Fatigue
+Kidney Stones ,Flank Pain|Blood in Urine|Nausea|Frequent Urination|Fever
+Hernia,Abdominal Pain|Bulging Lump|Discomfort When Moving|Digestive Issues|Weakness in the Affected Area
