@@ -1,0 +1,51 @@
+Disease,Also Affecting Disease
+fever,Cough|Runny or Stuffy Nose|Headache|Muscle Aches|Fatigue
+Influenza (Flu),Fever|Cough|Sore Throat|Body Aches|Fatigue
+Diabetes,Increased Thirst|Frequent Urination|Extreme Fatigue|Blurred Vision|Slow Healing Sores
+Hypertension (High Blood Pressure),Headache|Dizziness|Nosebleeds|Shortness of Breath|Flushing
+Asthma,Wheezing|Shortness of Breath|Chest Tightness|Coughing|Difficulty Sleeping
+Common Cold,Cough|Runny or Stuffy Nose|Sore Throat|Sneezing|Fatigue
+Headache,Pain in Head|Sensitivity to Light|Nausea|Throbbing Pain|Difficulty Concentrating
+Cough,Sore Throat|Chest Tightness|Shortness of Breath|Hoarseness|Mucus Production
+Sore Throat,Pain when Swallowing|Dry Throat|Swollen Glands|Hoarseness|Redness in Throat
+Sinusitis,Facial Pain/Pressure|Stuffy Nose|Thick Nasal Discharge|Loss of Smell|Cough
+Allergic Rhinitis (Hay Fever),Sneezing|Runny Nose|Itchy Eyes|Congestion|Cough
+Bronchitis,Persistent Cough|Mucus Production|Fatigue|Shortness of Breath|Chest Discomfort
+Pneumonia,Fever|Cough with Phlegm|Chest Pain|Shortness of Breath|Fatigue
+Diarrhea,Loose Stools|Abdominal Cramps|Nausea|Dehydration|Urgent Bowel Movements
+Constipation,Hard Stools|Straining|Infrequent Bowel Movements|Abdominal Pain|Bloating
+Indigestion (Dyspepsia),Bloating|Belching|Nausea|Burning in Stomach|Feeling Full Quickly
+Gastritis,Stomach Pain|Nausea|Vomiting|Bloating|Loss of Appetite
+Urinary Tract Infection (UTI),Frequent Urination|Burning Sensation|Cloudy Urine|Lower Abdominal Pain|Strong Urge to Urinate
+Skin Rashes,Redness|Itching|Swelling|Blisters|Dry Skin
+Eczema,Dry Skin|Itching|Redness|Crusting|Inflamed Patches
+Psoriasis,Red Patches of Skin|Silvery Scales|Itching|Dry Skin|Joint Pain
+Acne,Pimples|Blackheads|Whiteheads|Oily Skin|Scarring
+Hyperlipidemia (High Cholesterol),No Symptoms (Usually Detected by Blood Test)|Chest Pain|Shortness of Breath|Fatigue|Xanthomas (Fat Deposits in Skin)
+Arthritis,Joint Pain|Stiffness|Swelling|Reduced Range of Motion|Fatigue
+Osteoporosis,Back Pain|Loss of Height|Stooped Posture|Fractures|Bone Weakness
+Migraine,Throbbing Pain|Sensitivity to Light and Sound|Nausea|Aura (Visual Disturbances)|Fatigue
+Obesity,Shortness of Breath|Joint Pain|Fatigue|Increased Sweating|Snoring
+Anemia,Fatigue|Weakness|Pale Skin|Shortness of Breath|Dizziness
+Depression,Persistent Sadness|Loss of Interest|Fatigue|Sleep Changes|Difficulty Concentrating
+Anxiety Disorders,Excessive Worry|Restlessness|Fatigue|Irritability|Difficulty Sleeping
+Chronic Obstructive Pulmonary Disease (COPD),Chronic Cough|Shortness of Breath|Wheezing|Chest Tightness|Fatigue
+Tonsillitis,Sore Throat|Swollen Tonsils|Fever|Difficulty Swallowing|Ear Pain
+Chickenpox,Itchy Rash|Fever|Tiredness|Loss of Appetite|Blisters
+Measles,High Fever|Cough|Runny Nose|Red Eyes|Skin Rash
+Mumps ,Swollen Glands|Fever|Headache|Muscle Aches|Fatigue
+Tuberculosis,Persistent Cough|Fever|Night Sweats|Weight Loss|Chest Pain
+Hepatitis,Fatigue|Jaundice|Abdominal Pain|Nausea|Dark Urine
+Mononucleosis (Mono),Fatigue|Sore Throat|Swollen Lymph Nodes|Fever|Muscle Aches
+Chikungunya,Joint Pain|Fever|Rash|Fatigue|Headache
+Dengue Fever,High Fever|Severe Headache|Pain Behind Eyes|Joint and Muscle Pain|Skin Rash
+Zika Virus,Mild Fever|Rash|Joint Pain|Red Eyes|Headache
+HIV/AIDS,Fever|Night Sweats|Weight Loss|Swollen Lymph Nodes|Fatigue
+Malaria,High Fever|Chills|Sweating|Nausea|Headache
+Typhoid Fever,High Fever|Weakness|Stomach Pain|Headache|Loss of Appetite
+Cholera,Watery Diarrhea|Dehydration|Vomiting|Muscle Cramps|Low Blood Pressure
+Shingles,Painful Rash|Blisters|Burning Sensation|Fever|Tingling or Numbness
+Gout,Severe Joint Pain|Swelling|Redness|Tenderness|Stiffness
+Celiac Disease,Diarrhea|Bloating|Weight Loss|Fatigue|Anemia
+Kidney Stones ,Severe Pain in Back or Side|Nausea|Blood in Urine|Frequent Urination|Fever
+Hernia,Bulge in Abdomen|Pain when Lifting|Discomfort in Abdomen|Weakness|Burning Sensation
